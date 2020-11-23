@@ -14,7 +14,7 @@ row_index = 0
     outer_results << lowest_number
     row_index += 1
   end
-  
+   outer_results
 end
 
 
